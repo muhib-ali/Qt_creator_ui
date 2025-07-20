@@ -1,0 +1,72 @@
+Name: Panadol
+Price: 300
+Stock: 1000
+
+Name: Mektum(T3)
+Price: 150
+Stock: 400
+
+Name: Bruffen
+Price: 250
+Stock: 500
+
+Name: Bronocol
+Price: 60
+Stock: 200
+
+Name: disprin
+Price: 70
+Stock: 300
+
+Name: Vermox
+Price: 350
+Stock: 900
+
+Name: Mektum(T18)
+Price: 150
+Stock: 490
+
+Name: Desora
+Price: 290
+Stock: 500
+
+Name: Velosef
+Price: 100
+Stock: 670
+
+Name: Zetofin
+Price: 300
+Stock: 200
+
+Name: Dektrin gel
+Price: 60
+Stock: 100
+
+Name: Ispaghol
+Price: 162
+Stock: 200
+
+Name: Kartlerg
+Price: 90
+Stock: 400
+
+Name: abcd
+Price: 5
+Stock: 4000
+
+Name: Medicine
+Price: 340
+Stock: 2000
+
+Name: Calci +5000
+Price: 200
+Stock: 500
+
+Name: MektumT5
+Price: 150
+Stock: 100
+
+Name: PanadolExtra
+Price: 400
+Stock: 230
+

@@ -1,0 +1,17 @@
+release/addemployee.o
+release/addmedicine.o
+release/adminpanel.o
+release/getemployee.o
+release/history.o
+release/login.o
+release/main.o
+release/mainwindow.o
+release/shop.o
+release/moc_addemployee.o
+release/moc_addmedicine.o
+release/moc_adminpanel.o
+release/moc_getemployee.o
+release/moc_history.o
+release/moc_login.o
+release/moc_mainwindow.o
+release/moc_shop.o

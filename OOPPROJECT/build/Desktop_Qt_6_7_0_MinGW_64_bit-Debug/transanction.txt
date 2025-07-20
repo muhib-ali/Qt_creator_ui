@@ -1,0 +1,132 @@
+14:31:47
+Item: Panadol
+quantity: 2
+Totalprice: 600
+
+Item: Ispaghol
+quantity: 1
+Totalprice: 162
+
+Item: Kartlerg
+quantity: 1
+Totalprice: 90
+
+--------------------------
+16:49:32
+Item: Mektum(T18)
+quantity: 1
+Totalprice: 150
+
+--------------------------
+22:04:24
+Item: Bruffen
+quantity: 3
+Totalprice: 750
+
+--------------------------
+22:05:36
+Item: disprin
+quantity: 1
+Totalprice: 70
+
+--------------------------
+13:07:39
+Item: Panadol
+quantity: 2
+Totalprice: 600
+
+--------------------------
+13:09:43
+Item: Ispaghol
+quantity: 3
+Totalprice: 486
+
+Item: Dektrin gel
+quantity: 5
+Totalprice: 300
+
+--------------------------
+14:26:52
+Item: Panadol
+quantity: 23
+Totalprice: 6900
+
+--------------------------
+15:16:55
+Item: Kartlerg
+quantity: 2
+Totalprice: 180
+
+--------------------------
+15:32:52
+Item: Vermox
+quantity: 30
+Totalprice: 10500
+
+--------------------------
+02:21:45
+Item: Dektrin gel
+quantity: 2
+Totalprice: 120
+
+--------------------------
+23:54:06
+Item: Panadol
+quantity: 2
+Totalprice: 600
+
+--------------------------
+15:22:55
+Item: Kartlerg
+quantity: 3
+Totalprice: 270
+
+Item: Bruffen
+quantity: 1
+Totalprice: 250
+
+--------------------------
+01:19:53
+Item: Panadol
+quantity: 3
+Totalprice: 900
+
+--------------------------
+07:19:00
+Item: Panadol
+quantity: 3
+Totalprice: 900
+
+--------------------------
+01:57:44
+Item: Panadol
+quantity: 4
+Totalprice: 1200
+
+--------------------------
+16:18:11
+Item: Medicine
+quantity: 2
+Totalprice: 680
+
+--------------------------
+16:23:12
+Item: Calci +5000
+quantity: 2
+Totalprice: 400
+
+--------------------------
+16:41:00
+Item: MektumT5
+quantity: 3
+Totalprice: 450
+
+--------------------------
+17:35:47
+Item: Vermox
+quantity: 1
+Totalprice: 350
+
+--------------------------
+06:44:03
+--------------------------

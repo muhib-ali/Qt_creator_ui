@@ -1,0 +1,17 @@
+debug/addemployee.o
+debug/addmedicine.o
+debug/adminpanel.o
+debug/getemployee.o
+debug/history.o
+debug/login.o
+debug/main.o
+debug/mainwindow.o
+debug/shop.o
+debug/moc_addemployee.o
+debug/moc_addmedicine.o
+debug/moc_adminpanel.o
+debug/moc_getemployee.o
+debug/moc_history.o
+debug/moc_login.o
+debug/moc_mainwindow.o
+debug/moc_shop.o

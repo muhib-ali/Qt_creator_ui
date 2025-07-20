@@ -1,0 +1,60 @@
+ID: 2030
+Name: muhib
+Salary:300000
+
+ID: 2031
+Name: fakeha
+Salary: 80000
+
+ID: 4321
+Name: fizba
+Salary: 780000
+
+ID: 2040
+Name: Nomeer
+Salary: 45000
+
+ID: 2020
+Name: Umer Daya
+Salary: 35000
+
+ID: 2019
+Name: abdurehman
+Salary: 12000
+
+ID: 9999
+Name: xyz
+Salary: 230000
+
+ID: 2222
+Name: fariz
+Salary: 50000
+
+ID: 2042
+Name: Owais
+Salary: 40000000
+
+ID: 2031
+Name: Habib
+Salary: 23000
+
+ID: 444
+Name: abdullah
+Salary: 9000000000
+
+ID: 1234
+Name: Iqbal
+Salary: 450000
+
+ID: 777
+Name: Ali
+Salary: 32000
+
+ID: 0001
+Name: haris
+Salary: 45000
+
+ID: 0002
+Name: Faisal
+Salary: 30000
+
